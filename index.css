@@ -17,13 +17,6 @@ header h1 h2{
 	vertical-align:	middle;
 }
 
-header .container:before{
-	content: '';
-	display:inline-block;
-	height: 100%;
-	vertical-align:	middle;
-}
-
 .container{
 	width: 60%;
 	height: 100%;
@@ -104,21 +97,6 @@ button{
     clear: both;
     margin: 10px 0px;
 
-}
-
-button:active{
-	margin-top:0px;
-	border: 0;
-}
-
-button[disabled=disabled], button:disabled {
-    background-color: gray;
-	border-color: darkgray;
-
-}
-
-.adicionar-paciente{
-    margin-top: 30px;
 }
 
 
