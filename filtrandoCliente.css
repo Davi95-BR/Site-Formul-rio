@@ -1,0 +1,12 @@
+
+/*Filtrar Busca*/
+#filtrar-tabela {
+	font-size: 15px;
+	width:400px;
+	height:24px;
+	margin-bottom:1em;
+}
+
+.invisivel {
+	display: none;
+}
