@@ -10,11 +10,11 @@ button[disabled=disabled], button:disabled {
 
 }
 
-.adicionar-paciente{
+#adicionar-paciente {
     margin-top: 30px;
 }
 
-header .container:before{
+.container:before{
 	content: '';
 	display:inline-block;
 	height: 100%;
